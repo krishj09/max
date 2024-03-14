@@ -9,8 +9,8 @@
     "google_login": {
         "client_id": "828537029976-42uio1knmfc5nbgnq5q25ut2e9m369kr.apps.googleusercontent.com",
         "client_secret": "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",
-        "success_redirect_url": "https://max-jav2.onrender.com",
-        "failure_redirect_url": "https://max-jav2.onrender.com/account/login"
+        "success_redirect_url": "https://max-1-jav2.onrender.com",
+        "failure_redirect_url": "https://max-1-jav2.onrender.com/account/login"
       },
     "system": {
         "theme": "../theme/food",
