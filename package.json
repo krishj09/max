@@ -1,7 +1,7 @@
 {
   "name": "evershop",
   "version": "1.0.0-beta",
-  "description": "A shopping cart platform with Express, React and Postgres",
+  "description": "Canteen Food ordering & Seat Reservation Application",
   "files": [
     "bin",
     "src",
